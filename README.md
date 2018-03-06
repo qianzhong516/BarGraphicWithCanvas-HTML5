@@ -11,5 +11,5 @@ The Apache I'm using is XAMPP and backend database is phpMyAdmin.<br/>
 
 I hope this can help a bit for those who are making a poll function on their websites.<br/> Welcome to any advise or ideas, please feel free to comment below.<br/>
 
-<strong>Display:</strong><br/>
+<strong>Display As:</strong><br/><br/>
 <img src="https://i.imgur.com/aussHiN.png" width="250" height="380"/>
