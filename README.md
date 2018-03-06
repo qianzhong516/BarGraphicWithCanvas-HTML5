@@ -7,6 +7,6 @@ This widget offers following functions:
 </ul>
 
 The program language I've used on this small project: Javascript, Jquery, Ajax, PHP. <br/>
-
+The Apache I'm using is XAMPP and backend database is phpMyAdmin.<br/>
 
 I hope this can help a bit for those who are making a poll function on their websites.<br/> Welcome to any advise or ideas, please feel free to comment below.
